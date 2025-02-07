@@ -1,6 +1,7 @@
 ## Welcome!!  
 
 - I'm studying to become a game developer and a full-stack developer.
+- Je suis en train d'étudier pour devenir développeur de jeux et développeur full-stack.
 
 ### Some Knowledges
 <code><img height="50" alt="html" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
