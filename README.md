@@ -22,4 +22,3 @@
 
   ##
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-ayres)](https://github.com/matheus-ayres/github-readme-stats)
